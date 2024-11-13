@@ -21,6 +21,7 @@ I am a Data Scientist and Certified Public Accountant based in Argentina, with o
 - Pandas
 - Matplotlib
 - Scikit-learn
+- Selenium
 
 📊 **BI Tools:**
 - Power BI
