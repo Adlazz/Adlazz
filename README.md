@@ -2,7 +2,9 @@
 
 My name is Adrian Lazzarini 👨🏻‍💻
 
-I am a Data Scientist and Certified Public Accountant based in Argentina, with over 10 years of experience in tax and labor areas. I specialize in data analysis and process automation using Python and Business Intelligence tools. My unique combination of accounting expertise, technology skills, and project management allows me to offer innovative and efficient solutions in finance and data analysis.
+I am a Data Scientist and Certified Public Accountant based in Argentina, with over 10 years of experience in tax and labor areas and 3 years specializing in technology, combining financial knowledge with skills in Python, data analysis, and automation. 
+
+I specialize in data analysis and process automation using Python and Business Intelligence tools. My unique combination of accounting expertise, technology skills, and project management allows me to offer innovative and efficient solutions in finance and data analysis.
 
 ## Education 🎓
 
