@@ -11,10 +11,11 @@ I am a Data Scientist and Certified Public Accountant based in Argentina, with o
 
 ## Skills 🛠️
 
-💻 **Programming Languages:**
+💻 **Programming & Development:**
 - Python
-- SQL
+- SQL, MySQL, SQLite, BigQuery
 - HTML, JavaScript, CSS
+- Docker
 
 📚 **Libraries and Frameworks:**
 - NumPy
@@ -23,9 +24,10 @@ I am a Data Scientist and Certified Public Accountant based in Argentina, with o
 - Scikit-learn
 - Selenium
 
-📊 **BI Tools:**
+📊 **Data Analysis & Visualization:**
 - Power BI
 - Excel
+- Streamlit
 
 🎵 **Audio Technology:**
 - Pro Tools
